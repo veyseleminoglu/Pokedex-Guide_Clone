@@ -13,6 +13,7 @@ Dynamic Styling: Each Pokémon card background color changes according to its pr
 Interactive UI: Smooth CSS transitions and a toggleable search bar for a better user experience.
 
 📸 Preview
+
 ![Pokedex Guide - Opera 2026-01-14 21-06-06](https://github.com/user-attachments/assets/b4493ff4-0d50-4a84-96ab-317405a7ea8e)
 
 
